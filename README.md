@@ -4,7 +4,7 @@
 
 #### Description:
 
-SciQuiz Pro is a command-line trivia game focused on science, built in Python as the final project for CS50P. The game challenges players with questions across six scientific disciplines — Chemistry, Physics, Mathematics, Computer Science / AI, Biology, and Astronomy — with three difficulty levels, a streak-based bonus scoring system, and persistent score history saved to a local CSV file.
+SciQuiz Pro is a command-line trivia game focused on science, built in Python. The game challenges players with questions across six scientific disciplines — Chemistry, Physics, Mathematics, Computer Science / AI, Biology, and Astronomy — with three difficulty levels, a streak-based bonus scoring system, and persistent score history saved to a local CSV file.
 
 ---
 
