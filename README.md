@@ -120,4 +120,4 @@ Pure functions — those that return a value rather than producing side effects 
 
 ---
 
-*This was CS50P. Thank you, David!*
+*This was. Thank you!*
