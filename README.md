@@ -10,7 +10,7 @@ SciQuiz Pro is a command-line trivia game focused on science, built in Python. T
 
 ## Motivation
 
-After completing the CS50P curriculum, I wanted to build something that combined two passions: science communication and clean software design. A trivia game felt like the perfect vehicle — simple enough to be approachable, yet with enough moving parts to exercise every concept covered in the course: file I/O, data structures, functions with well-defined contracts, unit testing, and a polished user-facing CLI.
+After completing the curriculum, I wanted to build something that combined two passions: science communication and clean software design. A trivia game felt like the perfect vehicle — simple enough to be approachable, yet with enough moving parts to exercise every concept covered in the course: file I/O, data structures, functions with well-defined contracts, unit testing, and a polished user-facing CLI.
 
 ---
 
